@@ -213,11 +213,49 @@ Recuerde que el factor de potencia es igual al coseno de u (FP = cos (THETA)). C
 
 # CAPITULO 15 : -Ejercicios pares
 
+![15-1](https://user-images.githubusercontent.com/117534483/221078612-b167a8a4-19b0-4685-b51c-9c8ce9632144.jpg)
 
+![15-2](https://user-images.githubusercontent.com/117534483/221078616-31c6cf4a-9389-464a-9cf9-a3cba2ad2ebf.jpg)
+
+![15-3](https://user-images.githubusercontent.com/117534483/221078617-1651e8b7-5844-45db-9c36-bd5e325dc415.jpg)
+
+![15-4](https://user-images.githubusercontent.com/117534483/221078619-817cc8b4-166d-46de-b5f4-e169bb435285.jpg)
+
+![15-5](https://user-images.githubusercontent.com/117534483/221078621-910b3fc2-4fbc-4b8c-8319-e3fcc77d14ea.jpg)
+
+![15-6](https://user-images.githubusercontent.com/117534483/221078623-416f5571-f7e8-4c56-911d-cceb99db4f43.jpg)
+
+![15-7](https://user-images.githubusercontent.com/117534483/221078625-80c5a127-c17d-43b8-81c2-76d7ecdac40c.jpg)
+
+![15-8](https://user-images.githubusercontent.com/117534483/221078628-8a790863-538d-4156-88c2-3d69b2ff226c.jpg)
+
+![15-9](https://user-images.githubusercontent.com/117534483/221078630-bd20c561-608b-4161-9663-98dc0e7bd82c.jpg)
+
+![15-10](https://user-images.githubusercontent.com/117534483/221078632-65b03673-0fe1-44b9-b567-b910d41ac23c.jpg)
+
+![15-11](https://user-images.githubusercontent.com/117534483/221078633-47baa33e-b8b0-4c67-96fb-0350f6e8d38b.jpg)
+
+![15-12](https://user-images.githubusercontent.com/117534483/221078635-2d464abc-f3a9-4085-a4ac-4c78d68927bb.jpg)
+
+![15-13](https://user-images.githubusercontent.com/117534483/221078636-a92c6271-ed54-4a06-9647-eb5326ef3f57.jpg)
+
+![15-14](https://user-images.githubusercontent.com/117534483/221078638-fb23d47b-fe39-45b2-9534-2c9cf0bb8777.jpg)
 
 # CAPITULO 16 : -Ejercicios pares
 
+![16-1](https://user-images.githubusercontent.com/117534483/221078689-209eb22a-9616-4624-8c22-2bd03b4463dd.jpg)
 
+![16-2](https://user-images.githubusercontent.com/117534483/221078692-f94f1f78-1dbc-4890-aff4-30ad7b98eed0.jpg)
+
+![16-3](https://user-images.githubusercontent.com/117534483/221078693-bd3e65d4-2484-4f38-979f-fbee2716f062.jpg)
+
+![16-4](https://user-images.githubusercontent.com/117534483/221078696-b5e04ff8-2838-4973-926b-927d46034855.jpg)
+
+![16-5](https://user-images.githubusercontent.com/117534483/221078697-5ffedca1-c1e8-44e6-9418-687a60379e43.jpg)
+
+![16-6](https://user-images.githubusercontent.com/117534483/221078699-b07dcb12-d1e8-4d5e-8811-7af8a089db22.jpg)
+
+![16-7](https://user-images.githubusercontent.com/117534483/221078701-0ebd1d44-2f63-4110-9d01-1f65659a2244.jpg)
 
 # 4.VIDEO
 
@@ -225,7 +263,45 @@ Recuerde que el factor de potencia es igual al coseno de u (FP = cos (THETA)). C
 
 # 5.CONCLUSIONES
 
-* 
+* Un número complejo representa una cantidad fasorial.
+
+* La forma rectangular de un número complejo consta de una parte real y una parte j de la forma "A + jB" o "A - jB".
+
+* La forma polar de un número complejo consta de una magnitud y un ángulo de la forma "C ∠ +D°" o "C ∠ -D°".
+
+* Los números complejos pueden ser sumados, restados, multiplicados y divididos.
+
+* Cuando se aplica un voltaje sinusoidal a un circuito RC, la corriente y todas las caídas de voltaje también son ondas seno.
+
+* La corriente total que circula en un circuito RC en serie o en paralelo siempre se adelanta al voltaje de fuente.
+
+* El voltaje en el resistor siempre está en fase con la corriente.
+
+* El voltaje en el capacitor siempre se retrasa en 90° con respecto a la corriente.
+
+* En un circuito de retraso, el voltaje de salida se retrasa con respecto al voltaje de entrada en fase.
+
+* En un circuito de adelanto, el voltaje de salida se adelanta al voltaje de entrada.
+
+* En un circuito RC, tanto la resistencia como la reactancia capacitiva combinadas determinan la impedancia.
+
+* La impedancia se expresa en unidades de ohms.
+
+* Cuando se aplica un voltaje sinusoidal a un circuito RL, la corriente y todas las caídas de voltaje son ondas senoidales.
+
+* La corriente total en un circuito RL en serie o en paralelo siempre se retrasa con respecto al voltaje de fuente.
+
+* El voltaje a través del resistor siempre está en fase con la corriente.
+
+* En un inductor ideal, el voltaje siempre aparece 90° por delante de la corriente.
+
+* En un circuito de retraso, el voltaje de salida se retrasa con respecto al voltaje de entrada.
+
+* En un circuito de adelanto, el voltaje de salida se adelanta al voltaje de entrada.
+
+* En un circuito RL, tanto la resistencia como la reactancia inductiva combinadas determinan la impedancia.
+
+* La impedancia se expresa en unidades de ohms.
 
 # 6.BIBLIOGRAFÍA
 
